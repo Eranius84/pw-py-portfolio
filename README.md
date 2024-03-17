@@ -1,6 +1,6 @@
 # pw-py-portfolio
 <h2>E2E automation project  in python using playwright as UI  & API testing FW. </h2>
-
+<hr>
 
 Site Under Test : 
 https://conduit.bondaracademy.com/
