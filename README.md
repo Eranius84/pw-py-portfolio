@@ -11,6 +11,3 @@ Features : <br/>
 3.Add atricle <br/>
 4.Deatult atricle Tags<br/>
 5.
-From https://github.com/Eranius84/portfolio_pw_python
- * branch            master     -> FETCH_HEAD
-fatal: refusing to merge unrelated histories
