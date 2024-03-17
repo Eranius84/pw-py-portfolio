@@ -1,5 +1,5 @@
 # pw-py-portfolio
-<h2>E2E automation project  in python using playwright as UI  & API testing FW. </h2>
+<h3>E2E automation project  in python using playwright as UI  & API testing FW. </h3>
 <hr>
 
 Site Under Test : 
